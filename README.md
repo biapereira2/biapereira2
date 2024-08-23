@@ -1,5 +1,5 @@
 ## 👋🏻 Hi, I'm Beatriz!
-👩🏼‍💻 Computer Sciece student at CESAR School  
+👩🏼‍💻 Computer Science student at CESAR School  
 📚 I'm currently learning Java, Object-Oriented Programming and Algorithms and Data Structures  
 👩🏼‍🏫 Teaching assistant of Foundations of Programming  
 
