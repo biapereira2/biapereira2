@@ -1,5 +1,7 @@
 ## 👋🏻 Hi, I'm Beatriz!
 👩🏼‍💻 Computer Science student at CESAR School 
+
+  
 👩🏼‍🏫 Teaching assistant of Object-Oriented Programming
 
 <div align="center">
