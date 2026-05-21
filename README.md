@@ -1,13 +1,11 @@
 ## 👋🏻 Hi, I'm Beatriz!
-👩🏼‍💻 Computer Science student at CESAR School 
-
-  
-👩🏼‍🏫 Teaching assistant of Object-Oriented Programming
+👩🏼‍💻 Computer Science Student at CESAR School and Software Developer @ Plancorp
 
 <div align="center">
-  <a href="https://github.com/biapereira2">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=biapereira2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapereira2&layout=compact&langs_count=6&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=biapereira2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://streak-stats.demolab.com?user=biapereira2&theme=tokyonight"/>
 </div>
     
 ## 🚀 Skills
