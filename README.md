@@ -1,5 +1,5 @@
 ## 👋🏻 Hi, I'm Beatriz!
-👩🏼‍💻 Computer Science Student at CESAR School and Software Developer @ Plancorp
+👩🏼‍💻 Computer Science Student at CESAR School and Software Developer at Plancorp
 
 <div align="center">
 
